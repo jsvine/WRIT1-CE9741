@@ -1,6 +1,7 @@
 # Analytics and Data Visualization for Journalism
 
 [WRIT1-CE9741, Fall 2013](http://www.scps.nyu.edu/content/scps/academics/course_detail.html?id=WRIT1-CE9741&catalogId=20133)
+
 NYU School of Continuing and Professional Studies
 
 
@@ -69,5 +70,5 @@ New York University is committed to providing equal educational opportunity and 
 
 ## Instructor
 
-__Jeremy Singer-Vine__. I'm a reporter and computer programmer at the Wall Street Journal, where I work on data-gathering, data-analysis, and data-visualization for news and investigative projects. Before that, I worked at Slate Magazine as a staff writer and interactive-graphics programmer. I enjoy people, generally, so please don't hesitate to get in touch with questions, anxieties, et cetera. The easiest way to reach me is via email: jsvine@gmail.com
+[__Jeremy Singer-Vine__](http://www.jsvine.com/). I'm a reporter and computer programmer at the Wall Street Journal, where I work on data-gathering, data-analysis, and data-visualization for news and investigative projects. Before that, I worked at Slate Magazine as a staff writer and interactive-graphics programmer. I enjoy people, generally, so please don't hesitate to get in touch with questions, anxieties, et cetera. The easiest way to reach me is via email: jsvine@gmail.com
 
