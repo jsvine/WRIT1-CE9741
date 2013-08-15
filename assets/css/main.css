@@ -1,0 +1,40 @@
+body {
+    max-width: 700px;
+    margin: 0 auto;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+header {
+    font-size: 0.9em;
+    font-weight: bold;
+    margin: 1em 0;
+}
+
+header a, header a:visited {
+    color: #AAA;    
+}
+
+header a:hover {
+    color: DarkBlue;    
+}
+
+#main {
+    line-height: 1.5;
+}
+
+h2 {
+}
+
+h3 {
+    border-bottom: 1px solid #EEE;
+    border-top: 2px solid #333;
+}
+
+a, a:visited {
+    color: RoyalBlue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: DarkBlue;    
+}
