@@ -52,7 +52,7 @@ All classes will be taught in a computer lab, and will weave discussion with han
 - Correlations.
 - Significance testing.
 
-### Week 9, November 27: Visualization, part III – Geographic Data
+### Week 9, November 27: Visualization, part III – Mapping
 
 - Common geodata formats: Shapefiles, KML, and GeoJSON.
 - Mapping with Fusion Tables.
