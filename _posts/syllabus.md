@@ -4,11 +4,14 @@
 
 NYU School of Continuing and Professional Studies
 
+Wednesdays, 6:45pm-9:15pm, September 25 - December 4
+
 
 ### Course Description
 
 Data-based journalism is increasingly important at all levels of news organizations. This course will introduce you to fundamental concepts and skills for gathering, analyzing, and visualizing data. It's also a hands-on class; you'll apply the techniques you learn each week to a semester-long data-reporting project. 
 
+[Click here for the week-by-week outline.](course-outline.md)
 
 ### Course Philosophy
 
