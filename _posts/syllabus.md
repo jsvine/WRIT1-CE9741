@@ -51,11 +51,11 @@ Class will take place in a computer lab equipped with Mac computers, so you don'
 
 ### Grading 
 
-- Class attendance and participation: 25%
+- __Class attendance and participation: 25%.__ Simple enough.
 
-- Weekly assignments: 50%
+- __Weekly assignments: 50%.__ After each class, except for the final two, you'll be assigned work relevant to the previous lesson, long-term projects, or both. In total, each week's assignments should take between 1-3 hours to complete. You'll be graded both on completeness and insight.
 
-- Final project: 25% 
+- __Final project: 25%.__ Over the course of the semester, you'll apply the skills you learn to a long-term data-journalism project. The particular shape it takes is up to you, and will likely depend on the particular topic you choose. Possibilities include, but are not limited to: a traditional news/investigative article bolstered by data analysis; a series of well-narrated charts; a deep, interactive graphic. I'll be available during and outside of class to help you brainstorm topics and approaches. You'll be graded chiefly on the soundness of your analysis, but also the quality of its presentation.
 
 
 ### Academic Integrity
