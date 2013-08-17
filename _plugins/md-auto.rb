@@ -19,25 +19,28 @@ Crochet::Hook.new(Jekyll::Post) do
 end
 
 # Intercept .md files, and generate metadata
-Crochet::Hook.new(File) do
-	after! :read, :class do |result, path|
-		if File.extname(path) == ".md"
-			STDERR.write "Processing #{path}\n"
-            first_header = result.split("\n").select do |line|
+module Jekyll::Convertible
+    alias_method :orig_read_yaml, :read_yaml 
+    def read_yaml(base, name)
+		if File.extname(name) == ".md"
+			STDERR.write "Processing #{name}\n"
+            path = File.join(base, name)
+            text = File.read(path)
+            first_header = text.split("\n").select do |line|
                 line[0] == "#"
             end.first
-            meta = {
+            converted = text.gsub(/\(.*\.md\)/) do |match|
+                inner = match[1...-1]
+                link = (name == "index.md" ? inner : File.join("..", inner)).gsub(".md", "")
+                "(#{link})"
+            end
+            self.content = converted
+            self.data = {
                 "title" => (first_header || "").gsub(/^#+ /, ""),
                 "layout" => "default"
             }
-            converted = result.gsub(/\(.*\.md\)/) do |match|
-                inner = match[1...-1]
-                link = File.join("..", inner).gsub(".md", "")
-                "(#{link})"
-            end
-			YAML.dump(meta) + "---\n" + converted
 		else
-			result
+			orig_read_yaml(base, name)
 		end
-	end
+    end
 end
