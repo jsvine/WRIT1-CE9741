@@ -4,6 +4,23 @@ body {
     font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
+h2 {
+}
+
+h3 {
+    border-bottom: 1px solid #EEE;
+    border-top: 2px solid #333;
+}
+
+a, a:visited {
+    color: DodgerBlue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: DarkBlue;    
+}
+
 header {
     font-size: 0.9em;
     font-weight: bold;
@@ -18,23 +35,14 @@ header a:hover {
     color: DarkBlue;    
 }
 
+footer {
+    font-family: monospace;
+    background-color: #EEE;
+    border-top: 1px dotted #CCC;
+    padding: 0.5em 0.75em;
+    font-size: 0.9em;
+}
+
 #main {
     line-height: 1.5;
-}
-
-h2 {
-}
-
-h3 {
-    border-bottom: 1px solid #EEE;
-    border-top: 2px solid #333;
-}
-
-a, a:visited {
-    color: RoyalBlue;
-    text-decoration: none;
-}
-
-a:hover {
-    color: DarkBlue;    
 }
