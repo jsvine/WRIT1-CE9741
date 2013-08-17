@@ -16,7 +16,5 @@
 ### Post-class assignments
 
 - Read the pre-class reading if you joined the class last-minute.
-
 - Find a dataset and interview it. First, jot down 10 specific things you notice about the data. Then, in 1-3 paragraphs, write an introduction to your dataset, aimed at someone who's never seen it before.
-
 - [CodeCademy Web Fundamentals](http://www.codecademy.com/tracks/web), Lesson 1: Introduction to HTML
