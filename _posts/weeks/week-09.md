@@ -6,9 +6,9 @@
 
 ### What we'll cover
 
-- Building basic charts with HTML and CSS.
-- Throwing in some JavaScript magic.
-- Using basic JavaScript charting libraries.
+- Common geodata formats: Shapefiles, KML, and GeoJSON.
+- Mapping with Fusion Tables.
+- Mapping with JavaScript.
 
 ### Post-class assignments
 
