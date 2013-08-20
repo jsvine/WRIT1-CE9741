@@ -2,7 +2,8 @@
 
 ### Pre-class reading
 
-- TK
+- [Scraping The Web](https://github.com/veltman/learninglunches/tree/master/scraping), by Noah Veltman, 2013
+- [How the Data Sausage Gets Made](http://source.mozillaopennews.org/en-US/learning/how-sausage-gets-made/), by Jacob Harris, 2013
 
 ### What we'll cover
 

@@ -2,7 +2,7 @@
 
 ### Pre-class reading
 
-TK
+- [Design Principles for News Apps & Graphics](http://www.propublica.org/nerds/item/design-principles-for-news-apps-graphics), by Lena Groeger, 2013
 
 ### What we'll cover
 

@@ -2,7 +2,8 @@
 
 ### Pre-class reading
 
-- TK
+- [When Maps Shouldn’t Be Maps](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/), by Matthew Ericson, 2011
+- [So You Want To Make a Map...](https://github.com/veltman/learninglunches/tree/master/maps), by Noah Veltman, 2013
 
 ### What we'll cover
 

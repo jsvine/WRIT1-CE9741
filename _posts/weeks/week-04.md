@@ -2,7 +2,7 @@
 
 ### Pre-class reading
 
-- TK
+- [A Guide to Bulletproofing Your Data](https://github.com/propublica/guides/blob/master/data-bulletproofing.md), by Jennifer LaFleur, 2013
 
 ### What we'll cover
 

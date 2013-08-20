@@ -2,7 +2,7 @@
 
 ### Pre-class reading
 
-TK
+- [SQL: The Prequel (Excel vs. Databases)](https://github.com/veltman/learninglunches/tree/master/databases), by Noah Veltman, 2013
 
 ### What we'll cover
 
