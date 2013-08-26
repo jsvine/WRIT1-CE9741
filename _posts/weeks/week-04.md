@@ -3,6 +3,7 @@
 ### Pre-class reading
 
 - [A Guide to Bulletproofing Your Data](https://github.com/propublica/guides/blob/master/data-bulletproofing.md), by Jennifer LaFleur, 2013
+- [Avoiding Mistakes When Cleaning Your Data](https://github.com/veltman/learninglunches/tree/master/datahygiene), by Noah Veltman, 2013
 
 ### What we'll cover
 
