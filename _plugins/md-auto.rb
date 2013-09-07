@@ -29,7 +29,7 @@ module Jekyll::Convertible
             first_header = text.split("\n").select do |line|
                 line[0] == "#"
             end.first
-            converted = text.gsub(/\(.*\.md\)/) do |match|
+            converted = text.gsub(/\([^:]*\.md\)/) do |match|
                 inner = match[1...-1]
                 link = (name == "index.md" ? inner : File.join("..", inner)).gsub(".md", "")
                 "(#{link})"
