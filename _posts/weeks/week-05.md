@@ -1,16 +1,17 @@
-## Week 5, October 30: Analysis, part II – Comparing and Combining Datasets
+## Week 5, October 30: Analysis, part II – Grouped Analysis
 
 ### Pre-class reading
 
-- TK
+- [PAC Track: What and Where are the Super PACs Spending?](http://projects.propublica.org/pactrack/#committee=all), by Al Shaw and Kim Barker, 2012 
+- [Independent Spending Totals](http://elections.nytimes.com/2012/campaign-finance/independent-expenditures/totals), by Kevin Quealy and Derek Willis, 2012
 
 ### What we'll cover
 
-- Combining datasets using spreadsheet software.
-- Combining datasets with database software.
-- Statistical programming overview.
+- Grouping data using pivot tables in spreadsheet software.
+- Grouping data using SQL in database software.
+- Outliers, sample size, and the law of large numbers.
 
 ### Post-class assignments
 
-TK
-
+- Clean, analyze, and visualize the ["independent expenditures" filed with the FEC](http://www.fec.gov/data/IndependentExpenditure.do?format=html&election_yr=2014) so far in the 2014 election cycle. Try grouping the data by organization, candidate, office sought, and expenditure date. Keep a log of the steps you took, and the decisions you made. Write a few paragraphs summarizing your findings.
+- [CodeCademy Web Fundamentals: jQuery](http://www.codecademy.com/courses/web-beginner-en-bay3D/)

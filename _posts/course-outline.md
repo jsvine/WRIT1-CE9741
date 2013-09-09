@@ -28,11 +28,11 @@ All classes will be taught in a computer lab, and will weave discussion with han
 
 ### No class on October 23
 
-### [Week 5, October 30: Analysis, part II – Comparing and Combining Datasets](weeks/week-05.md)
+### [Week 5, October 30: Analysis, part II – Grouped Analysis](weeks/week-05.md)
 
-- Combining datasets using spreadsheet software.
-- Combining datasets with database software.
-- Statistical programming overview.
+- Grouping data using pivot tables in spreadsheet software.
+- Grouping data using SQL in database software.
+- Outliers, sample size, and the law of large numbers.
 
 ### [Week 6, November 6: Visualization, part II – HTML, CSS, and JavaScript](weeks/week-06.md)
 
@@ -43,8 +43,8 @@ All classes will be taught in a computer lab, and will weave discussion with han
 ### [Week 7, November 13: Data, part III – Getting/Making Your Own Datasets](weeks/week-07.md)
 
 - Freedom of Information requests, FOIA Machine, and MuckRock.
-- Surveys and sensors.
 - Introduction to web scraping.
+- Combining datasets with spreadsheets and database software.
 
 ### [Week 8, November 20: Analysis, part III – Complex Analysis](weeks/week-08.md)
 
