@@ -15,7 +15,7 @@ Data-based journalism is increasingly important at all levels of news organizati
 
 ### Course Philosophy
 
-__The hardest part is learning what to Google.__ That's a bit facetious. It's grounded, though, in the fact that there's an extraordinary wealth of resources available online but a sharp learning curve. We can't cover even a small fraction of this constantly growing field in just 10 weeks. So my goal with this class is to help you gain fundamental skills that will make it easier to learn the rest:
+__The hardest part is learning what to Google.__ That's a bit facetious. It's grounded, though, in the fact that there's an extraordinary wealth of resources available online but a sharp learning curve. Rather than try to cover the entirety of this constantly growing field, this class will teach you fundamental skills that will make it much easier to learn the rest:
 
 - How to __think about data__ like a programmer — and as a journalist.
 
@@ -25,7 +25,7 @@ __The hardest part is learning what to Google.__ That's a bit facetious. It's gr
 
 - How to do basic, yet fundamental, __analysis__ on data.
 
-- How to translate your data and analyses into line charts, bar charts, histograms, and other useful (if unsexy) __visualizations__.
+- How to translate your data and analyses into line charts, bar charts, histograms, and other useful __visualizations__.
 
 
 ### Prerequisites
@@ -47,7 +47,7 @@ What is __not__ required:
 
 ### Course Materials
 
-All assigned readings in this course are available online, for free. The required and optional readings for each class are noted in the course outline for each class. They're also grouped by category in the class bibliography, along with several non-free books, such as Edward Tufte's classics.
+All assigned readings in this course are available online, for free. The required and optional readings for each class are noted in the course outline for each class.
 
 Class will take place in a computer lab equipped with Mac computers, so you don't need to bring a computer of your own. If you'd prefer to use your own computer, that should be fine, too. 
 
