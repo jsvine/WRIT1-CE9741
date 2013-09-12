@@ -4,4 +4,3 @@
 
 - [Course Outline](course-outline.md)
 
-- [Readings](readings.md)
