@@ -2,10 +2,10 @@
 
 ### Pre-class reading
 
-- [Finding Stories in the Structure of Data](http://source.mozillaopennews.org/en-US/learning/finding-stories-structure-data/), by Matt Waite, 2013
-- [A fundamental way newspaper sites need to change](http://www.holovaty.com/writing/fundamental-change/), by Adrian Holovaty, 2006
-- [The Rhetoric of Data](http://towcenter.org/blog/the-rhetoric-of-data/), by Nicholas Diakopoulos, 2013
 - The Myth of the Machine, by Michael J. Berens, pp. 14-15 of [*When Nerds and Words Collide: Reflections on the Development of Computer Assisted Reporting*](https://www.documentcloud.org/documents/757701-nerds-and-words.html), 1999
+- [A fundamental way newspaper sites need to change](http://www.holovaty.com/writing/fundamental-change/), by Adrian Holovaty, 2006
+- [Finding Stories in the Structure of Data](http://source.mozillaopennews.org/en-US/learning/finding-stories-structure-data/), by Matt Waite, 2013
+- [The Rhetoric of Data](http://towcenter.org/blog/the-rhetoric-of-data/), by Nicholas Diakopoulos, 2013
 
 ### What we'll cover
 
