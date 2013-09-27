@@ -1,4 +1,4 @@
-## Week 10, December 4: Next Steps
+## Week 10, December 11: Next Steps
 
 ### Pre-class reading
 

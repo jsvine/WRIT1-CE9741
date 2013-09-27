@@ -1,4 +1,4 @@
-## Week 9, November 27: Visualization, part III – Mapping
+## Week 9, December 4: Visualization, part III – Mapping
 
 ### Pre-class reading
 

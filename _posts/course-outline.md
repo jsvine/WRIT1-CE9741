@@ -52,13 +52,15 @@ All classes will be taught in a computer lab, and will weave discussion with han
 - Correlations.
 - Significance testing.
 
-### [Week 9, November 27: Visualization, part III – Mapping](weeks/week-09.md)
+### No class on November 27
+
+### [Week 9, December 4: Visualization, part III – Mapping](weeks/week-09.md)
 
 - Common geodata formats: Shapefiles, KML, and GeoJSON.
 - Mapping with Fusion Tables.
 - Mapping with JavaScript.
 
-### [Week 10, December 4: Next Steps](weeks/week-10.md)
+### [Week 10, December 11: Next Steps](weeks/week-10.md)
 
 - GitHub and the open source community.
 - News apps and web apps.
