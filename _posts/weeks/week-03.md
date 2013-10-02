@@ -17,6 +17,6 @@
 ### Post-class assignments
 
 - Browse through recent data-visualizations by any publication of your choosing. Pick one particular visualization, and write about what you find: What does it show? What works? What doesn't?
-- Using [ChartBuilder](http://quartz.github.io/Chartbuilder/) (or any of the other tools we've learned), chart these two aircraft accident datasets: [Accidents by Airport](../../data/accidents-by-airport.tsv) and [Accidents by Year](../../data/accidents-by-year.tsv)
+- Using any of the charting tools we've covered in class, chart these two aircraft accident datasets: [Accidents by Airport](../../data/accidents-by-airport.tsv) and [Accidents by Year](../../data/accidents-by-year.tsv). In a few paragraphs, describe the decisions you made and any problems you ran into.
 - [CodeCademy Web Fundamentals: CSS](http://www.codecademy.com/courses/web-beginner-en-TlhFi/)
 - Optional: buy or borrow the classic treatise, [The Visual Display of Quantitative Information](http://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142), by Edward Tufte, 1983
