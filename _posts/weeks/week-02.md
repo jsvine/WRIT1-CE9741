@@ -15,6 +15,6 @@
 
 ### Post-class assignments
 
-- Much like last week, find a new dataset and interview it. Write a brief introduction to the dataset. Then, using the techniques we learned in class, do some basic analysis on the data. Find relevant means, medians, modes, and percentages. Depending on the particulars of the dataset, you might also want to do time-based analysis, or calculate by-group statistics. Write about what you found, what worked, what didn't work, what conclusions you can draw, and any problems you encountered with the data.
+- Much like last week, find a new dataset and interview it, taking notes. Then, using any of the techniques we learned in class, do some basic analysis on the data: maximums, minimums, counts, sums, averages, et cetera. Write about what you found, what worked, what didn't work, what conclusions you can draw, and any problems you encountered with the data.
 - [CodeCademy Web Fundamentals: HTML Basics II](http://www.codecademy.com/courses/web-beginner-en-y2Yjd/)
 - [CodeCademy Web Fundamentals: HTML Basics III](http://www.codecademy.com/courses/web-beginner-en-f8mcL/)
