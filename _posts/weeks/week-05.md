@@ -1,4 +1,4 @@
-## Week 5, October 30: Analysis, part II – Grouped Analysis
+## Week 5, October 23: Analysis, part II – Grouped Analysis
 
 ### Pre-class reading
 

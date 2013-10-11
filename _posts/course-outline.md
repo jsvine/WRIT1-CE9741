@@ -26,13 +26,13 @@ All classes will be taught in a computer lab, and will weave discussion with han
 - Using OpenRefine to clean and transform data.
 - Fact-checking your data.
 
-### No class on October 23
-
-### [Week 5, October 30: Analysis, part II – Grouped Analysis](weeks/week-05.md)
+### [Week 5, October 23: Analysis, part II – Grouped Analysis](weeks/week-05.md)
 
 - Grouping data using pivot tables in spreadsheet software.
 - Grouping data using SQL in database software.
 - Outliers, sample size, and the law of large numbers.
+
+### No class on October 30
 
 ### [Week 6, November 6: Visualization, part II – HTML, CSS, and JavaScript](weeks/week-06.md)
 
