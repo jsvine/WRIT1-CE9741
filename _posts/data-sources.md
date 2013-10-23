@@ -17,7 +17,7 @@
 
 - [GovTrack.us](https://www.govtrack.us) provides an [API](https://www.govtrack.us/developers/api) and [bulk raw data](https://www.govtrack.us/developers/data) on U.S. legislators and bills.
 
-### International Organization
+### International Organizations
 - The [U.N.'s data portal](http://data.un.org/) also lets you search its data published by its [partner organizations](http://data.un.org/Partners.aspx).
 
 - The [OECD](http://stats.oecd.org/) and the [World Bank](http://datacatalog.worldbank.org/) both publish data on a range of topics in economic development and international trade.
