@@ -15,6 +15,8 @@
 
 - The [Sunlight Foundation's APIs](http://sunlightfoundation.com/api/) provide information on Congress (bills, votes, members, etc.), lobbying, and some state-level legislative data.
 
+- [GovTrack.us](https://www.govtrack.us) provides an [API](https://www.govtrack.us/developers/api) and [bulk raw data](https://www.govtrack.us/developers/data) on U.S. legislators and bills.
+
 ### International Organization
 - The [U.N.'s data portal](http://data.un.org/) also lets you search its data published by its [partner organizations](http://data.un.org/Partners.aspx).
 
