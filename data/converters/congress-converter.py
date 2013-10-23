@@ -22,9 +22,9 @@ def convert_member(m):
         "senator_rank": m["senator_rank"],
         "state": m["state"],
         "party": m["party"],
-        "is_republican": m["party"] == "Republican",
+        "is_republican": int(m["party"] == "Republican"),
         "gender": m["person__gender"],
-        "is_male": m["person__gender"] == "male",
+        "is_male": int(m["person__gender"] == "male"),
         "age": years_since(m["person__birthday"])
     }
 
