@@ -34,17 +34,17 @@ All classes will be taught in a computer lab, and will weave discussion with han
 
 ### No class on October 30
 
-### [Week 6, November 6: Visualization, part II – HTML, CSS, and JavaScript](weeks/week-06.md)
+### [Week 6, November 6: Data, part III – Getting/Making Your Own Datasets](weeks/week-06.md)
+
+- Joining datasets with spreadsheets and database software.
+- Introduction to web scraping.
+- Freedom of Information requests, FOIA Machine, and MuckRock.
+
+### [Week 6, November 13: Visualization, part II – HTML, CSS, and JavaScript](weeks/week-07.md)
 
 - Building basic charts with HTML and CSS.
 - Throwing in some JavaScript magic.
 - Using basic JavaScript charting libraries.
-
-### [Week 7, November 13: Data, part III – Getting/Making Your Own Datasets](weeks/week-07.md)
-
-- Freedom of Information requests, FOIA Machine, and MuckRock.
-- Introduction to web scraping.
-- Combining datasets with spreadsheets and database software.
 
 ### [Week 8, November 20: Analysis, part III – Complex Analysis](weeks/week-08.md)
 
