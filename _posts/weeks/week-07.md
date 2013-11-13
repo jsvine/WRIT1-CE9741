@@ -12,5 +12,4 @@
 
 ### Post-class assignments
 
-- Use HTML and CSS to build a bar chart for one of your long-term projects' datasets. Consider using JavaScript to automate the process of building the HTML elements. Don't forget to label your axes.
-- Use JavaScript to add some interactivity to your bar chart: perhaps a "tooltip" or a button that toggles between two different views. Does this improve the visualization, or detract from it? (The answer will obviously depend on your particular project and data.)
+- Use HTML and CSS to build a bar chart for one of your long-term projects' datasets. Consider using JavaScript to automate the process of building the HTML elements. Add a title, sourceline, and axis labels where applicable.
