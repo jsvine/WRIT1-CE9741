@@ -40,7 +40,7 @@ All classes will be taught in a computer lab, and will weave discussion with han
 - Introduction to web scraping.
 - Freedom of Information requests, FOIA Machine, and MuckRock.
 
-### [Week 6, November 13: Visualization, part II – HTML, CSS, and JavaScript](weeks/week-07.md)
+### [Week 7, November 13: Visualization, part II – HTML, CSS, and JavaScript](weeks/week-07.md)
 
 - Building basic charts with HTML and CSS.
 - Throwing in some JavaScript magic.
